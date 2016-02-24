@@ -1,0 +1,6 @@
+c:\users\kvsanagi\documents\visual studio 2015\Projects\CodeKata\CodeKata\bin\Debug\CodeKata.exe.config
+c:\users\kvsanagi\documents\visual studio 2015\Projects\CodeKata\CodeKata\bin\Debug\CodeKata.exe
+c:\users\kvsanagi\documents\visual studio 2015\Projects\CodeKata\CodeKata\bin\Debug\CodeKata.pdb
+c:\users\kvsanagi\documents\visual studio 2015\Projects\CodeKata\CodeKata\obj\Debug\CodeKata.csprojResolveAssemblyReference.cache
+c:\users\kvsanagi\documents\visual studio 2015\Projects\CodeKata\CodeKata\obj\Debug\CodeKata.exe
+c:\users\kvsanagi\documents\visual studio 2015\Projects\CodeKata\CodeKata\obj\Debug\CodeKata.pdb

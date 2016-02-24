@@ -1,0 +1,8 @@
+c:\Users\kvsanagi\documents\visual studio 2015\Projects\CodeKata\CodeKataTests\bin\Debug\CodeKataTests.dll
+c:\Users\kvsanagi\documents\visual studio 2015\Projects\CodeKata\CodeKataTests\bin\Debug\CodeKataTests.pdb
+c:\Users\kvsanagi\documents\visual studio 2015\Projects\CodeKata\CodeKataTests\bin\Debug\CodeKata.exe
+c:\Users\kvsanagi\documents\visual studio 2015\Projects\CodeKata\CodeKataTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\kvsanagi\documents\visual studio 2015\Projects\CodeKata\CodeKataTests\bin\Debug\CodeKata.pdb
+c:\Users\kvsanagi\documents\visual studio 2015\Projects\CodeKata\CodeKataTests\obj\Debug\CodeKataTests.csprojResolveAssemblyReference.cache
+c:\Users\kvsanagi\documents\visual studio 2015\Projects\CodeKata\CodeKataTests\obj\Debug\CodeKataTests.dll
+c:\Users\kvsanagi\documents\visual studio 2015\Projects\CodeKata\CodeKataTests\obj\Debug\CodeKataTests.pdb
